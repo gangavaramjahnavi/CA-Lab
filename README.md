@@ -1,2 +1,0 @@
-# CA-Lab
-Computer Architecture 
